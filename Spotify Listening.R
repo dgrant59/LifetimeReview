@@ -13,8 +13,8 @@ options(scipen = 20,
 
 #data comes in 16 JSON files, combine and form dataframe, 
 ######################################################################################
-#i don't want to upload all of these
-# so I'm only uploading 2 to github. Code may require tweaking if you want to use only my 2 files
+#for privacy reasons I omit these, as they contain my ip address
+#
 ######################################################################################
 listening_data_df<- NULL
 for(i in 1:16){
